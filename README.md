@@ -4,7 +4,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2M5S4E)
 
 Hello!  
-I am J0J0HA aka. [jojojux](https://jojojux.de) a German Student and hobbyist Software Developer.
+I am J0J0HA aka. [jojojux](https://jojojux.de), a German Student and hobbyist Software Developer.
 I mostly spend my time using SvelteKit to create WebApps and Python for CLI tools & scripting.
 Some of my newer work is on [tangled](https://tangled.org/jojojux.de).
 
